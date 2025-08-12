@@ -1,0 +1,13 @@
+
+ul{
+color: rgb(211, 10, 104);
+    background-color: rgb(9, 222, 219);
+    padding: 20px;
+    justify-content: space-around;
+    display: flex;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+
+
